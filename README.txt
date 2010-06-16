@@ -20,9 +20,9 @@ To generate CSV copies of the Affective Norms for English Words (ANEW) system, p
 
 2. Place the PDF in the directory with README.txt.  Make sure it's named ANEW.pdf (capitalization matters).
 
-3. From the same directory, run the file make_all.sh.  For example:
+3. From the same directory, run the file begin_anew.sh.  For example:
 
-    prompt> sh make_all.sh
+    prompt> sh begin_anew.sh
     
 4. That's it!  New CSV files named female.csv, male.csv and all.csv should now be present in the working directory.
 
